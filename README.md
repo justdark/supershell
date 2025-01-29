@@ -39,6 +39,12 @@ supershell "当前目录下的txt文件打包成tar.gz文件"
 supershell "找出系统里大小top10的文件，不要文件夹"
 ```
 
+
+![搜索大文件](imgs/file_size.png)
+![git操作，会要求输入信息再执行](imgs/git.png)
+![删除或者修改系统设置时会有交互确认](imgs/delete.png)
+![删除或者修改系统设置时会有交互确认](imgs/set_dark.png)
+
 TODO:目前主要的promtp是中文，且指明系统为mac，后续会替换和自动识别
 
 ## 快速使用
