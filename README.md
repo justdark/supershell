@@ -36,7 +36,10 @@ supershell --config model_name=your-model-name
 supershell "如果当前目录下有txt文件，把所有文件内容都拼接到一起"
 supershell "系统设置为暗色模式"
 supershell "当前目录下的txt文件打包成tar.gz文件"
+supershell "找出系统里大小top10的文件，不要文件夹"
 ```
+
+TODO:目前主要的promtp是中文，且指明系统为mac，后续会替换和自动识别
 
 ## 快速使用
 
